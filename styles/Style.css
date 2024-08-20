@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('styles/images/back4.jpg'); 
+    background-image: url('Style/images/back4.jpg'); 
     background-size: cover;
     background-position: center;
   }
